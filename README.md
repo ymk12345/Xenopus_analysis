@@ -4,7 +4,7 @@ Here is the repository for the following scripts:
 
 1) Segmentation and quantification of 18 hour long recordings of single male calling: spectral and temporal characterization
 
-2) Filtering and Genotyping of extremely low coverage (.01x) wgs samples across candidate, species-specific nucleotide variants identified from >10x coverage dataset of X.laevis and X.petersii.
+2) Filtering and Genotyping of extremely low coverage (.01x) wgs samples across candidate, species-specific nucleotide variants identified from >10x coverage dataset of X.laevis and X.petersii and 0.5x coverage of F1 hybrids.
 
 3) Pruning any variants where there is no read coverage across all samples.
 
